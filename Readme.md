@@ -22,10 +22,7 @@ En este sentido se requiere desarrollar una herramienta analítica que les permi
 3. [Extracción](#extracción)
 4. [Transformación](#transformación)
 5. [Carga](#carga)
-6. [Ejecución del Proceso ETL](#ejecución-del-proceso-etl)
-7. [Consideraciones](#consideraciones)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
+6. [Visualización]
 
 ## Requisitos
 
