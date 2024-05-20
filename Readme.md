@@ -38,6 +38,8 @@ En este sentido se requiere desarrollar una herramienta analítica que les permi
 
 El proceso ETL se divide en tres fases principales:
 
+![Diagrama del Proceso ETL](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioBanca.PNG)
+
 1. **Extracción (Extract)**: Obtención de datos desde diversas fuentes.
 2. **Transformación (Transform)**: Limpieza y manipulación de los datos para adecuarlos a las necesidades del análisis.
 3. **Carga (Load)**: Inserción de los datos transformados en el almacén de datos.
