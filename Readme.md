@@ -38,7 +38,7 @@ En este sentido se requiere desarrollar una herramienta analítica que les permi
 
 El proceso ETL se divide en tres fases principales:
 
-![Diagrama del Proceso ETL](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioBanca.PNG)
+![Diagrama del Proceso ETL](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/imagen.PNG)
 
 1. **Extracción (Extract)**: Obtención de datos desde diversas fuentes.
 2. **Transformación (Transform)**: Limpieza y manipulación de los datos para adecuarlos a las necesidades del análisis.
@@ -158,6 +158,12 @@ finally:
 ## Visualización
 Utilizando Dash, se crea un dashboard interactivo para visualizar los datos cargados en PostgreSQL.
 
+![Diagrama uno](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioBanca.PNG)
 
+![Diagrama dos](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioClientes.PNG)
+
+![Diagrama tres](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioClientes2.PNG)
+
+![Diagrama cuatro](https://github.com/JhonaChinome/Tal-B-Inv/blob/main/img/PortafolioRiesgo.PNG)
 
 
